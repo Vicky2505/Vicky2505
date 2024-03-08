@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning **Flutter development, android development, UI/UX design**
 
-- 🌱 What do I do? **✔️I'm a fast learner looking for interesting career opportunities in Mobile App developer.**
+- 🌱 What do I do?<br>**✔️I'm a fast learner looking for interesting career opportunities in Mobile App developer.**</br>
 
 - 📫 How to reach me **Connect with me on LinkedIn**
 
