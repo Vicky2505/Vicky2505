@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky2505" alt="vicky2505" /></a> </p>
 
-- 💻 I’m currently learning<br>**App Development in cross plateform and also native ,UI/UX design👨‍💻.**</br>
+- 💻 I’m currently learning<br><center>**App Development in cross plateform and also native ,UI/UX design👨‍💻.**</center></br>
 
-- 🌱 What do I do?<br>**✔️I'm a fast learner looking for interesting career opportunities in Mobile App developer👨‍💻📱.**</br>
+- 🌱 What do I do?<br><center>**✔️I'm a fast learner looking for interesting career opportunities in Mobile App developer👨‍💻📱.**</center></br>
 
-- 📫 How to reach me<br>**Connect with me on LinkedIn, Instagram, Github✌️.**</br>
+- 📫 How to reach me<br><center>**Connect with me on LinkedIn, Instagram, Github✌️.**</center></br>
 
-- ⚡ One line that describes me best?<br>**A hard working boy who enjoys good humour & coding.😉😉**</br>
+- ⚡ One line that describes me best?<br><center>**A hard working boy who enjoys good humour & coding.😉😉**</center></br>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vignesh vicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh vicky" height="30" width="40" /></a>
-<a href="https://kaggle.com/vicky0525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vicky0525" height="30" width="40" /></a>
 <a href="https://github.com/vicky2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vicky2505" height="30" width="40" /></a>
 <a href="https://instagram.com/appwhiz_artistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vignesh_57094" height="30" width="40" /></a>
+<a href="https://kaggle.com/vicky0525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vicky0525" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
