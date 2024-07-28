@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky2505" alt="vicky2505" /></a> </p>
 
-- 💻 I’m currently learning<br><center>**App Development in cross plateform and also native ,UI/UX design👨‍💻.**</center></br>
+- 💻 I’m currently learning<br><center>**App Development in cross platform and also native ,UI/UX design👨‍💻.**</center></br>
 
 - 🌱 What do I do?<br><center>**✔️I'm a fast learner looking for interesting career opportunities in Mobile App developer👨‍💻📱.**</center></br>
 
