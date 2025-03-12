@@ -32,10 +32,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky2505&theme=dark)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vicky2505&theme=radical&hide_border=true)
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+<br>
 
 - 🔭 I’m currently working on **Cross-platform and Native App Development, UI/UX Design**
 
