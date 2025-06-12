@@ -16,7 +16,7 @@
   </a>
   <a href="https://instagram.com/appwhiz_artistry" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="appwhiz_artistry" height="40" width="50"/>
-  <a href="https://resourceful-style-314007.framer.app/" target="blank">
+  <a href="https://devvignesh2505.framer.website/" target="blank">
   <img align="center" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio_link" height="40" width="50"/>
   </a>
 </p>
